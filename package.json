@@ -21,7 +21,7 @@
     "@types/axios": "^0.14.0",
     "@types/dotenv": "^8.2.0",
     "@types/lodash": "^4.14.165",
-    "@types/mongoose": "^5.7.36",
+    "@types/mongoose": "^5.11.96",
     "@types/node": "^14.11.10",
     "axios": "^0.20.0",
     "convert-svg-to-png": "^0.5.0",
