@@ -17,7 +17,7 @@
     "download-translations": "node scripts/download.js && yarn prettier --single-quote --no-semi --write ./src/helpers/localizations.ts"
   },
   "dependencies": {
-    "@typegoose/typegoose": "^7.4.1",
+    "@typegoose/typegoose": "^7.6.1",
     "@types/axios": "^0.14.0",
     "@types/dotenv": "^8.2.0",
     "@types/lodash": "^4.14.165",
