@@ -28,7 +28,7 @@
     "dotenv": "^8.2.0",
     "lodash": "^4.17.20",
     "module-alias": "^2.2.2",
-    "mongoose": "^5.10.9",
+    "mongoose": "^5.13.3",
     "svg-captcha": "^1.4.0",
     "tall": "^3.1.0",
     "telegraf": "^3.38.0",
